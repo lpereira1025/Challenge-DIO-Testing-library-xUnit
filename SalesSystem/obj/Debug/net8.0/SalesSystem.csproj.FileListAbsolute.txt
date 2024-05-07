@@ -1,0 +1,15 @@
+C:\Users\lucas\Desktop\Challenge-DIO-Testing-library-xUnit\SalesSystem\bin\Debug\net8.0\SalesSystem.exe
+C:\Users\lucas\Desktop\Challenge-DIO-Testing-library-xUnit\SalesSystem\bin\Debug\net8.0\SalesSystem.deps.json
+C:\Users\lucas\Desktop\Challenge-DIO-Testing-library-xUnit\SalesSystem\bin\Debug\net8.0\SalesSystem.runtimeconfig.json
+C:\Users\lucas\Desktop\Challenge-DIO-Testing-library-xUnit\SalesSystem\bin\Debug\net8.0\SalesSystem.dll
+C:\Users\lucas\Desktop\Challenge-DIO-Testing-library-xUnit\SalesSystem\bin\Debug\net8.0\SalesSystem.pdb
+C:\Users\lucas\Desktop\Challenge-DIO-Testing-library-xUnit\SalesSystem\obj\Debug\net8.0\SalesSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Desktop\Challenge-DIO-Testing-library-xUnit\SalesSystem\obj\Debug\net8.0\SalesSystem.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\Challenge-DIO-Testing-library-xUnit\SalesSystem\obj\Debug\net8.0\SalesSystem.AssemblyInfo.cs
+C:\Users\lucas\Desktop\Challenge-DIO-Testing-library-xUnit\SalesSystem\obj\Debug\net8.0\SalesSystem.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\Challenge-DIO-Testing-library-xUnit\SalesSystem\obj\Debug\net8.0\SalesSystem.sourcelink.json
+C:\Users\lucas\Desktop\Challenge-DIO-Testing-library-xUnit\SalesSystem\obj\Debug\net8.0\SalesSystem.dll
+C:\Users\lucas\Desktop\Challenge-DIO-Testing-library-xUnit\SalesSystem\obj\Debug\net8.0\refint\SalesSystem.dll
+C:\Users\lucas\Desktop\Challenge-DIO-Testing-library-xUnit\SalesSystem\obj\Debug\net8.0\SalesSystem.pdb
+C:\Users\lucas\Desktop\Challenge-DIO-Testing-library-xUnit\SalesSystem\obj\Debug\net8.0\SalesSystem.genruntimeconfig.cache
+C:\Users\lucas\Desktop\Challenge-DIO-Testing-library-xUnit\SalesSystem\obj\Debug\net8.0\ref\SalesSystem.dll
